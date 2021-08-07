@@ -17,9 +17,10 @@ My name is Pavan Gole and I am Student at Government Polytechnic, Amravati.I am 
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=darkblue&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=apache&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apachespark&logoColor=orange&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_Web_Serivices-informational?style=flat&logo=amazonaws&logoColor=orange&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=orange&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=orange&color=2bbc8a)
 
-
---->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pavangole/pavangole">
