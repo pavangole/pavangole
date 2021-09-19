@@ -20,11 +20,11 @@ My name is Pavan Gole and I am Student at Government Polytechnic, Amravati.I am 
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Serivices-informational?style=flat&logo=amazonaws&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=orange&color=2bbc8a)
-  #### 📫 How to reach me:
+  ## 📫 How to reach me:
   
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pavangole/)  &nbsp;
- <a href="pavangoley5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ <a href="mailto:pavangoley5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## My Achivements 🚀
 
