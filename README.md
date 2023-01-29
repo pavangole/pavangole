@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Pavan Gole and I am Student at Sadar Patel Institute of Technology Mumbai.I am tech enthusiastic currently learning the core concepts of Devops and Machine Learning.
+My name is Pavan Gole and I am Student at Sadar Patel Institute of Technology, Mumbai.I am tech enthusiastic currently learning the core concepts of Devops and Machine Learning.
 
 
 ## My skills 🚀
